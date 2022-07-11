@@ -6,3 +6,5 @@ Project on electrocardio signal classification as a part of the Science Training
 **data_processing.py:** Takes in 'samplist.npy' and 'atrslist.npy'. Apply median filter. Segment heartbeat signals. Conduct statistical summary on the number of samples in each category, and discard categories with too few samples. Random sampling, and making sure all samples are of the same length
 
 **wavelet.py:** Perform wavelet transform on preprocessed samples to further reduce noise
+
+**neural_network.py:** deep learning network for classfication of preprocessed signals

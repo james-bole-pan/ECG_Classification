@@ -1,12 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Spyder Editor
-
-This is a temporary script file.
-"""
-
-# -*- coding: utf-8 -*-
-"""
 Created on Mon Jul 23 09:34:42 2018
 
 @author: Administrator
